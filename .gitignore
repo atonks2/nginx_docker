@@ -1,0 +1,3 @@
+# Let's not share our keys
+**/*.key
+**/*.pem
